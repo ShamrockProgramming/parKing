@@ -1,0 +1,87 @@
+body{
+    padding:0;
+    margin:0;
+}
+header{
+    height:150px;
+    background-color: darkgoldenrod;
+    padding-top:64px;
+}
+header > div > h1{
+    margin: 0;
+}
+footer{
+    height:100px;
+    background-color: #333333;
+    color:white;
+}
+#search-bar{
+    height: 20px;
+    width: 600px;
+}
+#find{
+    margin-bottom: 48px;
+}
+/* Rules for sizing the icon. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.center{
+    width: 80%;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+.flexbox{
+    display: flex;
+    justify-content: space-evenly;
+}
+main{
+    height:600px;
+    background-image: url("parkinglot1.jpg");
+    padding-top:48px;
+}
+
+.service{
+    flex-basis: 25%;
+    margin-bottom:48px;
+    padding:8px;
+    padding-top:64px;
+    height:120px;
+    background-color: palegoldenrod;
+    opacity: 0.7;
+    text-align: center;
+
+}
+
+.service > div > a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+}
+
+.service:hover{
+    background-color: darkgoldenrod;
+}
+
+/*************Form Stuff***************/
+
+.form-box{
+    padding: 4px;
+}
+.form > h3 {
+    margin:0;
+    text-align: center;
+}
+.form{
+    background-color: palegoldenrod;
+    height:250px;
+    width:404px;
+    padding:8px;
+    margin: 0 auto;
+}
+/**************************************/
