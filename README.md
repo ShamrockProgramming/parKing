@@ -3,4 +3,4 @@ This is a web app which schedules drivers, cars, and parking spots.  This also a
 
 ## Home Page
 [parKing web app link](http://mrfleming.school/parKing/parking.html)
-[homepage](http://mrfleming.school/parKing/parkingsnip.PNG)
+![homepage](http://mrfleming.school/parKing/parkingsnip.PNG)
