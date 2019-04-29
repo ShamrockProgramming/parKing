@@ -17,7 +17,7 @@
 
         //Login Information
         $usr = 'mrflemin_theflem';
-        $pw = 'SAKS3~zh&23*';
+        $pw = '**************';
         $db = 'mrflemin_parking';
 
         // Create connection
